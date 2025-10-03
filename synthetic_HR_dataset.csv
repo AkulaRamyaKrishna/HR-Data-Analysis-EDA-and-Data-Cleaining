@@ -1,0 +1,1008 @@
+Employee_ID,Name,Department,Date_of_Joining,Age,Gender,Salary,Experience_Years,Last_Performance_Score,Attrition,City
+1574,Caleb,Marketing,2029-07-21,58,Other,65724,0,3.1,No,Chennai
+2612,Christopher,Marketing,2017-07-11,56,Male,55386,8,2.9,Yes,Chennai
+2769,Dale,HR,2015-10-06,31,Male,86909,10,3.3,No,Bangalore
+1201,Frank,Marketing,2016-05-31,34,Female,36725,9,3.1,No,Bangalore
+1463,Eric,IT,2021-02-06,34,,98698,4,2.2,Yes,Mumbai
+2777,Jeffrey,IT,2017-09-18,31,,30447,8,4.2,Yes,Chennai
+1731,Christopher,Sales,2016-09-22,43,Male,65118,9,3.8,No,Hyderabad
+2895,Michael,Sales,2025-04-01,24,Other,94820,0,2.4,Yes,Bangalore
+1745,James,Marketing,2016-07-04,59,,44057,9,2.7,No,Chennai
+2933,Alicia,HR ,2018-09-24,27,Male,54583,7,2.2,Yes,Delhi
+2475,Renee,Sales,2021-09-02,26,,58368,4,2.6,Yes,Delhi
+1379,Timothy,HR ,2018-11-01,52,,34930,7,2.7,No,Hyderabad
+1577,Devin,IT,2017-01-16,28,Other,79462,8,4.3,No,Bangalore
+1074,Victor,HR ,2016-10-25,54,Female,44080,9,,Yes,Mumbai
+1882,Elizabeth,hr,2017-01-23,25,Other,64414,8,4.0,Yes,Mumbai
+2368,Kyle,IT,2024-06-25,27,Other,49426,1,3.0,No,Chennai
+1227,Brandon,Finance,2019-02-08,44,Female,73114,6,2.6,No,Delhi
+1874,Charlene,Sales,2016-08-23,29,Male,113457,9,2.2,Yes,Mumbai
+1544,Sean,IT,2025-06-19,22,,50056,0,2.2,No,Bangalore
+2842,Travis,hr,2024-05-18,36,,113314,1,3.0,Yes,Bangalore
+1342,Jenny,hr,2021-02-28,30,Other,32368,4,2.3,Yes,
+1955,Jack,Finance,2018-01-07,36,Female,107509,7,3.8,No,Chennai
+2036,Stephen,Sales,2025-09-15,28,Male,65214,0,2.5,No,
+1601,Lori,IT,2025-02-07,55,Male,112928,0,4.9,No,Delhi
+1282,Eric,HR ,2024-06-18,47,Female,47841,1,2.1,Yes,Chennai
+2993,David,HR,2024-07-28,41,Male,47357,1,2.8,Yes,Delhi
+1370,Evelyn,Sales,2019-10-01,45,Female,34314,6,3.2,No,Chennai
+2738,Nicole,hr,2024-12-20,22,Female,45674,1,4.9,Yes,Mumbai
+1266,Edgar,Finance,2023-06-24,46,Other,56526,2,3.5,No,Bangalore
+1400,Douglas,hr,2021-07-22,27,Female,32608,4,4.4,Yes,Hyderabad
+1589,Benjamin,HR,2018-05-18,51,Female,70873,7,4.3,Yes,Hyderabad
+1807,Marcus,Sales,2019-05-25,39,Female,73844,6,4.9,Yes,
+1811,Dan,HR,2022-11-10,45,,78058,3,2.6,Yes,Chennai
+2165,Eric,Sales,2017-11-04,23,Other,108107,8,2.1,No,Delhi
+1091,Samantha,hr,2018-04-23,59,Male,75554,7,3.2,No,Chennai
+2477,Robert,Finance,2016-06-07,37,Male,39538,9,3.0,No,Delhi
+2556,Kathryn,IT,2017-05-08,40,Other,94161,8,4.7,Yes,Mumbai
+2115,Donald,Finance,2021-02-01,37,,103894,4,4.8,Yes,Bangalore
+1732,Kelly,Marketing,2019-12-21,26,,56839,6,3.2,Yes,Mumbai
+1555,Mario,IT,2019-11-24,45,Male,45215,6,2.4,Yes,Bangalore
+1454,Kimberly,Sales,2018-11-27,58,Female,108347,7,2.5,Yes,Mumbai
+1248,Nathaniel,hr,2023-11-05,38,Female,109685,2,4.4,No,Mumbai
+2661,Joseph,hr,2022-09-14,36,,74840,3,4.6,Yes,
+1956,Pamela,Finance,2023-12-07,45,,106896,2,2.8,No,Bangalore
+1742,Donald,hr,2024-11-17,51,,71203,1,3.3,Yes,
+2604,William,IT,2016-06-03,38,Male,68122,9,3.0,Yes,Hyderabad
+2659,Brandon,HR,2024-04-25,39,Female,68074,1,4.1,No,Chennai
+2735,Rebecca,Finance,2019-06-25,54,Other,77935,6,4.8,No,Delhi
+2433,Thomas,hr,2022-02-24,32,Female,66925,3,2.8,Yes,Chennai
+2859,Jonathan,Marketing,2025-06-30,43,,114781,0,3.5,No,Chennai
+2161,Christine,IT,2020-10-11,33,Other,50992,5,2.8,No,Hyderabad
+2350,Diana,hr,2019-09-18,53,Male,64917,6,2.3,Yes,Delhi
+2309,Kimberly,Finance,2024-07-09,50,,87328,1,,Yes,Delhi
+2107,Michelle,HR ,2017-01-11,22,Other,72209,8,3.0,Yes,
+1605,Jesse,Sales,2025-06-22,48,,53215,0,2.4,Yes,Chennai
+2842,Rachel,Marketing,2024-10-21,41,Other,97571,1,2.5,No,Chennai
+2511,Chase,Finance,2017-05-21,28,,103213,8,2.1,No,Delhi
+2340,Nicholas,hr,2021-06-23,52,Female,98876,4,2.4,No,Bangalore
+1089,Barbara,Marketing,2019-01-29,43,,68740,6,3.1,Yes,
+2308,Kayla,HR ,2020-09-30,49,Male,107232,5,4.2,Yes,Mumbai
+1094,Hannah,hr,2021-12-18,22,Female,38814,4,3.0,No,Bangalore
+2182,Sara,Finance,2021-07-17,25,,50710,4,3.4,No,Bangalore
+2510,Jason,IT,2017-12-08,46,Male,35143,8,4.9,No,
+1054,Roger,Marketing,2021-08-21,47,Female,105363,4,,No,Bangalore
+2187,Anthony,HR ,2021-01-10,45,Other,88270,4,3.2,Yes,
+2881,Diana,hr,2023-07-09,55,,44052,2,3.7,No,Bangalore
+2650,Sarah,HR,2020-01-27,32,Other,118514,5,4.0,No,Bangalore
+1845,Jenny,IT,2020-05-04,56,,94323,5,2.9,Yes,
+2027,Gina,IT,2016-01-22,28,Male,39556,9,4.9,No,Chennai
+2755,Jacqueline,hr,2022-06-19,42,Female,52502,3,4.0,No,
+1766,Krystal,HR ,2019-01-05,34,Female,96941,6,4.2,Yes,Mumbai
+1421,Scott,Finance,2023-10-30,51,Other,41832,2,4.5,Yes,Chennai
+2959,Cindy,HR,2016-01-30,40,Female,60403,9,2.9,No,Hyderabad
+2061,Paul,Sales,2023-08-24,42,Other,83722,2,4.1,Yes,Hyderabad
+1899,Betty,hr,2017-10-17,59,,107216,8,3.9,Yes,Mumbai
+1760,Justin,IT,2017-01-03,59,Male,106403,8,3.8,No,Bangalore
+2115,Sarah,IT,2021-06-05,25,Other,62703,4,2.2,No,Hyderabad
+2583,Brent,Finance,2017-02-15,47,,101970,8,3.6,No,Bangalore
+1221,Jonathan,IT,2016-11-13,24,,108599,9,3.5,Yes,Hyderabad
+1815,Gabrielle,HR ,2022-03-10,53,Male,51835,3,3.0,Yes,Delhi
+2393,Rachel,Sales,2019-03-06,33,Male,34431,6,3.2,Yes,Bangalore
+1211,Amanda,HR ,2023-03-05,48,Male,117478,2,4.0,No,Hyderabad
+1974,Steve,HR ,2018-05-06,58,Other,60602,7,4.9,No,Chennai
+2372,Courtney,HR,2020-04-03,34,Other,76397,5,3.2,No,
+2524,Brad,HR ,2021-06-19,55,Male,104231,4,4.7,No,Hyderabad
+1307,Lisa,hr,2015-12-24,15,,500000,10,3.4,No,Chennai
+1072,Carrie,hr,2016-05-18,59,Male,97822,9,3.7,Yes,Hyderabad
+1660,William,IT,2023-05-10,39,Female,82661,2,2.3,Yes,Bangalore
+2732,Erica,IT,2017-04-30,45,,1000000,8,2.2,Yes,Mumbai
+1093,Zachary,HR ,2016-07-05,59,Female,44744,9,4.2,Yes,Delhi
+1531,Benjamin,Marketing,2024-06-12,35,Male,49109,1,3.1,No,Delhi
+1128,Nicholas,hr,2016-02-09,26,Female,52497,9,4.5,Yes,Bangalore
+2622,Jamie,HR,2025-06-09,50,Female,50996,0,2.2,Yes,
+2465,Kyle,HR ,2016-11-26,57,Female,62060,9,3.7,No,
+1229,Derek,Sales,2020-05-05,32,Female,46609,5,3.8,Yes,Chennai
+1955,Joshua,Sales,2023-12-10,58,Male,87108,2,,Yes,Mumbai
+2905,Jessica,hr,2022-11-06,56,,81913,3,2.1,Yes,Bangalore
+1045,Tanya,Sales,2021-07-28,37,,63479,4,2.9,No,Mumbai
+1850,Roberto,hr,2015-12-07,33,Other,77248,10,4.3,No,Mumbai
+1632,Hannah,HR ,2017-08-26,28,Other,55227,8,2.3,No,Chennai
+2031,Sharon,HR ,2028-11-07,55,Other,36695,0,2.5,No,Hyderabad
+2003,James,Marketing,2019-08-14,46,Female,40832,6,4.7,No,Delhi
+2083,Jeffrey,IT,2015-10-18,40,Other,50594,10,3.9,No,Bangalore
+1091,Anthony,Marketing,2025-05-18,22,,118811,0,2.0,No,Chennai
+2704,Jake,HR,2018-01-14,58,,99893,7,2.8,Yes,Chennai
+2964,Stephanie,hr,2017-10-03,22,,33487,8,3.7,Yes,
+1047,Robert,HR,2022-08-03,46,Male,1000000,3,,No,Chennai
+2536,Eric,IT,2023-01-28,25,Female,40065,2,3.0,No,Mumbai
+1539,Amy,hr,2021-04-10,55,,50439,4,2.4,No,Delhi
+1564,Michele,Marketing,2022-03-17,30,,30774,3,4.5,Yes,Delhi
+1670,Carlos,HR,2023-03-18,29,,53611,2,4.7,Yes,Hyderabad
+1015,Rachel,hr,2025-08-15,54,Male,83280,0,4.9,No,Mumbai
+1359,Jonathan,Sales,2016-08-31,41,,79193,9,3.7,No,Mumbai
+2020,Ana,hr,2021-04-07,24,,105055,4,4.2,No,Hyderabad
+2897,Alexander,HR,2024-10-03,100,Male,64328,1,,No,
+1761,Melissa,IT,2022-08-21,24,,67170,3,2.4,No,Bangalore
+2283,Cindy,HR ,2016-05-10,38,Other,108800,9,4.2,Yes,Mumbai
+1125,Beth,Sales,2024-08-28,48,Female,75641,1,2.2,No,
+2898,Keith,HR,2020-11-27,40,Male,67876,5,4.7,No,
+1381,Amanda,HR ,2019-01-18,25,Male,86336,6,4.4,Yes,Chennai
+1559,Jennifer,Sales,2016-06-05,52,Female,77295,9,2.7,No,Chennai
+1800,Maria,Finance,2016-07-20,27,,104037,9,2.0,Yes,Delhi
+2145,Brittany,Marketing,2016-12-23,49,Other,68212,9,3.2,No,Chennai
+2392,Joanna,Marketing,2022-07-15,32,Male,66014,3,3.6,Yes,
+1744,Rachel,HR,2016-03-14,43,Male,66412,9,4.3,Yes,Mumbai
+2421,Jay,Sales,2015-10-07,57,Male,64842,10,,No,Delhi
+1526,Dale,Sales,2024-01-29,35,Other,113760,1,2.7,Yes,Bangalore
+1233,Tammy,IT,2019-08-06,58,Female,70316,6,2.7,No,
+1569,Brenda,Sales,2018-07-04,47,,86457,7,4.1,Yes,Delhi
+1499,Jesse,HR ,2019-01-04,40,Other,67850,6,3.8,No,
+1088,Brianna,IT,2025-09-17,45,,94676,0,4.2,Yes,Bangalore
+2201,Joseph,Marketing,2026-03-07,45,Male,115649,0,3.5,No,Mumbai
+2024,Dylan,Finance,2020-12-23,57,,79286,5,4.6,Yes,Mumbai
+1474,Benjamin,Finance,2020-11-21,57,Other,113573,5,,Yes,Bangalore
+1854,Jason,Sales,2019-10-05,30,Female,83442,6,3.8,No,Chennai
+1912,Kayla,Finance,2018-02-25,39,Other,94718,7,4.2,Yes,Bangalore
+2076,Kimberly,hr,2019-04-17,46,,36314,6,4.1,No,Chennai
+2529,Carla,Finance,2024-01-08,46,Female,117037,1,4.8,No,Mumbai
+2837,Jennifer,IT,2015-12-13,57,Other,32362,10,3.8,Yes,Delhi
+2694,Amy,Finance,2030-04-17,35,Male,95511,0,4.0,Yes,Bangalore
+2630,Amanda,Sales,2022-05-02,28,Female,117913,3,3.1,Yes,Delhi
+1364,Justin,Sales,2022-10-02,28,Male,58798,3,,Yes,
+1317,Catherine,IT,2023-09-01,44,,33042,2,2.9,Yes,
+2546,Jeffrey,Sales,2020-11-18,40,Male,83503,5,3.3,No,Chennai
+1707,Anthony,Finance,2018-01-17,36,,84835,7,3.5,Yes,Bangalore
+1470,Clifford,Marketing,2020-06-18,52,Male,74087,5,2.6,No,Chennai
+2387,Russell,hr,2021-01-01,100,Other,115972,4,4.0,No,Bangalore
+2014,Kimberly,Finance,2019-07-01,34,Other,117371,6,3.7,Yes,
+2169,Robert,hr,2020-12-20,52,,115700,5,2.4,Yes,Hyderabad
+2921,Nathan,Sales,2017-03-11,48,Female,46166,8,2.3,No,Bangalore
+1281,Jennifer,IT,2022-09-17,32,,42191,3,4.1,No,Bangalore
+1030,Anthony,Marketing,2017-03-28,42,Other,73214,8,3.2,No,Delhi
+2926,Pamela,HR ,2016-11-29,47,Other,72690,9,3.3,Yes,Chennai
+1197,Steven,IT,2024-01-08,41,,112579,1,3.4,Yes,Mumbai
+2105,Joseph,HR ,2021-06-30,40,Other,64745,4,2.5,No,Mumbai
+2079,Amanda,HR ,2025-07-03,56,Male,113799,0,2.4,No,
+1710,Kristen,HR,2017-06-19,27,Male,118960,8,2.7,Yes,Hyderabad
+2874,April,IT,2019-10-10,25,Female,119000,6,2.5,No,
+1474,Tyler,Sales,2017-03-30,29,Male,66944,8,2.2,No,Chennai
+2681,Suzanne,Sales,2017-10-09,53,Male,76314,8,4.9,No,Hyderabad
+2105,Anna,HR,2018-08-03,28,Female,38895,7,2.6,No,Hyderabad
+2394,Vincent,Marketing,2017-01-19,42,Female,95019,8,4.8,Yes,Mumbai
+2095,Benjamin,hr,2022-07-01,45,Female,65765,3,3.2,No,
+2852,Lauren,Finance,2024-11-10,40,Male,40891,1,2.3,Yes,Delhi
+1000,Richard,hr,2019-03-19,41,Other,68794,6,2.2,No,
+2677,Paul,IT,2020-12-31,55,,81003,5,3.7,No,Hyderabad
+1553,Rachel,HR ,2017-09-08,51,Male,62654,8,4.9,Yes,Bangalore
+2067,Michael,HR ,2021-06-23,45,,50386,4,4.5,Yes,
+2858,Nicholas,IT,2023-03-11,24,Other,62664,2,4.6,No,Mumbai
+1165,Crystal,HR,2023-12-05,48,Male,91477,2,3.1,Yes,Bangalore
+1828,Taylor,HR ,2021-10-23,59,,116448,4,3.2,No,Chennai
+1758,Emily,IT,2015-12-30,56,,80139,10,4.4,No,Hyderabad
+1427,Lindsey,Marketing,2020-06-22,28,Female,93432,5,,Yes,Delhi
+2120,Sarah,HR,2025-07-23,28,,46140,0,3.2,No,Bangalore
+2913,Kristopher,hr,2023-02-26,45,Female,63668,2,4.2,No,Hyderabad
+2375,Kenneth,Sales,2024-01-28,50,Female,51750,1,3.5,Yes,
+2739,Ronald,hr,2019-03-14,29,,92562,6,2.2,Yes,Hyderabad
+2869,Robert,Sales,2017-05-28,32,Male,35301,8,3.6,Yes,Hyderabad
+1729,Laurie,Finance,2016-01-18,24,Other,85212,9,3.2,No,Bangalore
+1632,Todd,Marketing,2016-10-31,25,Male,37022,9,2.8,No,Delhi
+1486,Marie,HR,2022-09-15,48,Other,46988,3,2.5,No,Bangalore
+1506,Kristy,Marketing,2020-04-04,59,,115522,5,2.6,Yes,Delhi
+1047,Barbara,Finance,2024-01-06,59,,56072,1,4.9,Yes,Hyderabad
+2384,Elizabeth,hr,2020-03-11,35,Male,66523,5,3.2,Yes,
+1730,Ellen,IT,2025-09-10,38,,39976,0,4.4,Yes,Chennai
+2481,Stephen,hr,2015-10-10,53,Male,67685,10,2.9,No,Delhi
+1975,Timothy,Sales,2020-09-11,57,Other,67823,5,2.0,No,Delhi
+2667,Kenneth,hr,2023-02-27,100,,66685,2,3.0,Yes,Chennai
+2269,Andre,Finance,2017-12-23,54,,68482,8,4.2,No,Bangalore
+2334,Rickey,Marketing,2023-01-01,35,Other,65023,2,,Yes,Hyderabad
+2744,Jack,Sales,2015-12-31,40,Other,105280,10,2.6,Yes,Bangalore
+1373,Tracy,IT,2020-04-02,44,Male,101366,5,3.5,No,Chennai
+2694,Caleb,IT,2016-09-05,22,,53548,9,4.3,Yes,Hyderabad
+1932,Earl,Marketing,2016-05-22,29,,44182,9,4.1,Yes,Delhi
+1831,Kathy,Finance,2024-06-03,33,Male,102858,1,3.0,No,Chennai
+2583,Melanie,Marketing,2022-12-27,37,,82655,3,4.7,Yes,Delhi
+1465,Ronald,IT,2025-08-09,52,Female,43434,0,3.8,Yes,Hyderabad
+2598,Andrea,HR,2026-01-24,49,Female,93210,0,3.6,No,Chennai
+2028,Melanie,Marketing,2017-02-21,45,,106451,8,4.1,Yes,Mumbai
+1363,Alicia,hr,2025-09-26,47,Male,96198,0,2.5,Yes,Mumbai
+1365,Cameron,HR,2021-12-09,37,Other,31854,4,,Yes,Mumbai
+2739,Ronald,hr,2019-03-14,29,,92562,6,2.2,Yes,Hyderabad
+1168,Stacy,HR,2022-01-01,23,Male,58784,3,5.0,Yes,
+1742,Patricia,HR,2022-01-11,59,Female,48342,3,4.0,No,Delhi
+2346,Paul,IT,2021-08-27,34,,63599,4,3.8,Yes,Delhi
+2134,Alexandra,HR,2020-03-22,25,Female,73046,5,3.5,Yes,Hyderabad
+1308,Daniel,Marketing,2019-01-31,59,Other,58676,6,,Yes,Delhi
+1935,James,HR ,2019-07-19,34,Male,82095,6,4.2,Yes,
+2887,Christina,Sales,2021-06-24,31,Female,51994,4,,No,Mumbai
+1937,Michael,IT,2018-09-22,34,Other,50308,7,3.8,No,Bangalore
+2999,Tina,HR ,2016-08-02,39,Male,109987,9,3.1,Yes,Mumbai
+2080,Matthew,HR ,2019-04-08,54,Other,96392,6,4.5,Yes,Mumbai
+2443,Sharon,Finance,2025-05-03,46,Female,51538,0,2.9,No,Mumbai
+2956,Cameron,HR ,2025-04-15,28,,76005,0,2.4,Yes,Bangalore
+2438,Paul,Finance,2025-02-20,49,Other,32586,0,2.1,No,Mumbai
+1863,Adam,IT,2024-05-24,39,,56485,1,4.3,Yes,Hyderabad
+2815,Rachel,hr,2016-02-20,23,,37209,9,2.5,Yes,Chennai
+1102,Cameron,Marketing,2022-01-02,58,Male,58678,3,3.4,Yes,Chennai
+1696,Tanya,HR ,2021-04-26,26,Female,84540,4,2.6,Yes,Chennai
+2052,Richard,HR ,2018-10-07,24,Male,75586,7,4.1,Yes,Mumbai
+1186,Alec,Sales,2018-12-04,53,Female,54193,7,2.2,No,Delhi
+1534,Sara,IT,2016-01-25,23,Other,48606,9,4.3,Yes,Hyderabad
+1050,Frank,HR,2020-06-24,51,Female,81262,5,3.2,Yes,Bangalore
+1820,Crystal,IT,2019-01-23,49,Female,67847,6,4.4,Yes,Delhi
+2526,Juan,HR,2022-11-07,30,Male,110350,3,4.4,Yes,Chennai
+2285,Jerry,Finance,2016-06-09,35,Male,32079,9,3.1,No,
+1873,Dawn,hr,2025-01-01,46,Other,84661,0,4.3,Yes,Chennai
+2375,Nathan,HR ,2016-12-10,42,Other,53924,9,4.5,No,Hyderabad
+2651,Micheal,Sales,2016-12-14,39,,1000000,9,2.1,No,
+1963,Melissa,IT,2017-01-28,29,Female,69985,8,4.4,No,Delhi
+1127,Matthew,HR ,2022-02-05,55,Female,40726,3,3.5,No,Bangalore
+2494,Joe,HR ,2020-12-14,58,,99539,5,4.0,Yes,Mumbai
+1088,Cameron,HR,2025-02-23,50,Female,62743,0,,No,
+1286,Jill,IT,2022-08-15,44,Female,46093,3,4.8,Yes,Mumbai
+1413,Timothy,HR ,2024-07-22,100,Other,70666,1,2.8,No,Mumbai
+1827,Daniel,IT,2019-05-07,32,Male,48940,6,3.3,No,
+2365,Jacqueline,Marketing,2022-01-08,47,Female,110447,3,4.3,Yes,Bangalore
+2539,Amy,Sales,2020-05-27,38,Male,49969,5,5.0,No,
+1254,Dustin,hr,2019-10-02,50,Female,65333,6,4.3,No,Hyderabad
+1894,Angela,hr,2025-05-12,33,,112672,0,4.9,No,
+1445,Christopher,Marketing,2023-12-24,27,Other,72254,2,2.8,No,
+2315,Jacob,Marketing,2022-10-08,58,Female,90783,3,4.1,No,Bangalore
+1766,Cynthia,Marketing,2020-07-09,49,,77910,5,2.9,No,Mumbai
+2629,Kelly,Sales,2023-11-03,36,Male,63074,2,4.2,No,
+2220,Rachel,IT,2024-05-07,37,Other,118683,1,4.1,No,Chennai
+2043,Benjamin,HR ,2017-12-31,56,,95543,8,4.4,No,Delhi
+1021,Ashley,IT,2016-10-08,53,Male,52377,9,4.3,No,Chennai
+2016,Justin,IT,2025-08-24,58,,83714,0,2.7,No,Delhi
+1681,Ashley,Finance,2025-05-14,33,Male,79243,0,4.1,No,Bangalore
+1886,Brandy,HR,2016-10-01,38,Male,54155,9,3.9,No,Chennai
+2114,James,Finance,2021-03-03,40,Other,39959,4,4.8,Yes,Chennai
+2536,Caroline,HR ,2020-01-29,46,Female,85334,5,2.5,No,Bangalore
+1953,Holly,Marketing,2021-11-01,37,,58695,4,3.0,Yes,Delhi
+2095,Susan,IT,2023-11-22,37,Other,32701,2,3.0,Yes,Delhi
+2277,Frederick,hr,2018-07-25,41,Male,31283,7,5.0,No,Delhi
+1935,Anthony,Sales,2023-04-19,28,Female,102744,2,4.8,No,Bangalore
+2297,Heidi,Sales,2023-10-24,23,Male,117984,2,3.0,Yes,
+1300,Anthony,HR,2019-03-18,49,,105448,6,5.0,Yes,Chennai
+1920,Caleb,Sales,2021-12-08,59,,59656,4,2.3,No,Mumbai
+2190,David,Finance,2016-04-24,38,Male,115235,9,3.3,No,Bangalore
+2576,Jason,HR ,2025-01-21,38,,56919,0,3.2,Yes,Chennai
+2700,Chad,HR,2021-12-26,37,Female,38341,4,2.6,No,Hyderabad
+2311,Victoria,HR ,2020-09-08,48,Female,83602,5,3.1,Yes,Chennai
+1956,Lindsay,Finance,2018-11-24,34,,62201,7,2.4,Yes,Chennai
+1931,Lee,hr,2020-05-07,52,Male,91754,5,2.8,No,
+2952,James,Finance,2024-12-28,53,,96445,1,2.0,No,Chennai
+1468,Mackenzie,Finance,2024-11-19,29,Female,88228,1,4.6,No,Delhi
+1551,Victor,Marketing,2024-06-29,29,,104412,1,2.5,Yes,Bangalore
+1975,Scott,Sales,2025-06-19,37,Male,104443,0,2.0,Yes,Bangalore
+2000,Amanda,Sales,2018-06-07,45,Male,62202,7,2.3,Yes,
+1479,Mary,HR,2021-08-12,51,,60458,4,3.9,No,Bangalore
+1482,Steven,hr,2022-12-18,24,Female,37625,3,3.3,Yes,Chennai
+1707,James,Marketing,2019-03-18,58,Other,91349,6,4.8,No,Delhi
+2491,Michael,Marketing,2017-05-03,23,Female,86761,8,2.5,No,
+1920,Brandi,IT,2021-12-09,28,Female,44907,4,2.5,No,Bangalore
+1452,Terry,HR ,2023-03-26,59,Other,56026,2,4.7,No,
+1252,Carlos,HR,2019-06-04,59,Female,72503,6,4.4,Yes,Chennai
+1319,Joshua,hr,2023-05-23,15,,72112,2,4.2,No,Bangalore
+1546,Amanda,hr,2019-08-12,24,Female,95249,6,2.5,Yes,Hyderabad
+1009,Donald,HR,2024-11-23,32,,75283,1,2.4,Yes,Bangalore
+2084,Jennifer,HR ,2016-10-25,50,Male,96120,9,,No,Bangalore
+2898,Keith,HR,2020-11-27,40,Male,67876,5,4.7,No,
+1724,Crystal,HR,2017-10-17,47,Female,53546,8,3.9,Yes,Delhi
+1579,Arthur,Sales,2017-07-06,32,Other,46019,8,2.6,Yes,Hyderabad
+2700,Travis,Finance,2022-09-20,49,,62402,3,3.5,Yes,Chennai
+2460,James,Sales,2023-04-07,47,Male,81495,2,2.6,No,Bangalore
+2634,Christopher,HR ,2016-06-18,59,Female,92520,9,3.7,No,Hyderabad
+2582,Katherine,HR,2025-05-05,38,,116519,0,2.4,Yes,
+2202,Jeffrey,Marketing,2021-03-21,46,Other,66033,4,3.1,No,Delhi
+1723,Melissa,HR ,2018-08-15,56,Male,66664,7,2.4,Yes,Bangalore
+2212,Sarah,hr,2019-10-01,46,,114541,6,4.1,No,Delhi
+1438,Amy,hr,2021-10-23,51,Male,57209,4,2.9,Yes,Delhi
+2241,Danielle,HR ,2024-09-21,100,Other,54324,1,4.1,No,Mumbai
+2192,Cathy,hr,2019-10-10,28,Female,47802,6,3.0,Yes,Hyderabad
+1167,Jeffrey,HR,2015-10-12,28,Male,75500,10,3.2,No,
+2073,Timothy,Sales,2022-07-01,27,Female,31432,3,5.0,Yes,Chennai
+1559,Shawn,HR ,2022-05-28,24,,118317,3,3.9,No,Chennai
+2377,Lindsey,IT,2025-08-11,15,Other,52679,0,4.3,No,
+2711,Michelle,HR,2025-04-18,22,Other,87838,0,3.3,Yes,
+1440,Melissa,IT,2019-10-12,35,,101734,6,3.8,No,Hyderabad
+2501,Michael,Finance,2023-06-25,57,Other,60450,2,4.2,No,Mumbai
+2540,Kayla,Sales,2024-06-29,56,Female,68035,1,2.7,Yes,Chennai
+2197,Michael,Finance,2019-10-19,26,Female,500000,6,3.4,No,Bangalore
+1041,Alan,Sales,2022-03-12,38,Male,109422,3,2.1,Yes,
+1331,Matthew,Marketing,2020-02-24,32,Male,94293,5,2.2,Yes,
+2477,Jeffrey,Finance,2024-12-07,100,Female,49091,1,2.5,Yes,Delhi
+2535,Heather,Marketing,2015-11-27,54,Other,33447,10,2.5,No,Chennai
+2999,Travis,Marketing,2017-04-17,26,,81578,8,2.5,No,Mumbai
+1729,James,Sales,2017-07-19,47,Other,30664,8,4.2,No,Hyderabad
+1118,Keith,Marketing,2021-09-22,39,Male,101636,4,2.6,No,Delhi
+1873,Nathaniel,IT,2019-01-08,55,Male,45326,6,4.5,No,Bangalore
+1519,Christopher,Sales,2016-04-06,41,Other,45553,9,2.6,No,Bangalore
+1603,Karen,IT,2016-03-13,44,Female,37281,9,4.9,Yes,Delhi
+2119,Susan,Marketing,2018-01-21,40,Female,33859,7,3.7,Yes,Delhi
+1397,Kevin,Marketing,2024-07-26,51,Female,58092,1,,Yes,Bangalore
+1978,Robert,Finance,2016-04-20,52,Female,61729,9,3.6,No,Delhi
+1016,Karen,Marketing,2016-02-26,49,Female,68910,9,2.8,Yes,Mumbai
+1515,Eric,Finance,2019-03-17,41,,119793,6,4.3,No,Delhi
+1738,Monica,HR ,2021-07-23,39,Other,92069,4,3.8,No,Chennai
+1679,Melinda,HR ,2016-09-26,48,Other,57655,9,3.3,Yes,Delhi
+1295,Roger,hr,2020-04-11,42,Female,52168,5,3.5,Yes,Chennai
+2812,Amy,Marketing,2023-12-12,27,Female,31508,2,4.3,Yes,Chennai
+1053,Michael,Finance,2016-12-03,33,Male,117429,9,4.4,Yes,Chennai
+1814,Michael,IT,2023-05-13,30,Male,65946,2,2.9,Yes,Bangalore
+1455,John,Sales,2020-05-30,40,Female,62637,5,2.4,Yes,Delhi
+2257,Jonathan,HR ,2023-02-12,31,,83888,2,4.0,Yes,Bangalore
+1909,Lisa,Sales,2018-05-09,27,Female,68024,7,4.8,Yes,Hyderabad
+2388,Katherine,Finance,2022-12-04,55,Male,102630,3,3.2,Yes,Bangalore
+1679,Megan,Marketing,2015-12-30,33,Other,59494,10,3.1,Yes,Delhi
+1215,Emily,Sales,2018-05-10,36,Other,114957,7,4.0,No,Bangalore
+1921,Melissa,Finance,2022-11-17,27,Male,52879,3,2.6,No,
+2251,Brianna,Sales,2022-04-13,51,Female,71265,3,4.5,No,Hyderabad
+1217,Victoria,hr,2016-04-09,47,Male,103096,9,3.7,No,Delhi
+2625,Luke,IT,2017-07-05,51,Female,57182,8,2.6,Yes,Mumbai
+2068,Benjamin,HR ,2023-01-08,29,Male,99917,2,2.4,Yes,
+1418,James,IT,2028-09-18,52,,73967,0,3.5,No,Mumbai
+1149,Danielle,Finance,2025-06-02,58,Male,58423,0,4.8,No,Delhi
+1811,Shannon,Finance,2023-07-15,27,Male,109700,2,3.7,No,Chennai
+1718,Ethan,HR ,2023-03-01,42,Other,93679,2,3.8,No,
+1152,Sarah,IT,2017-03-06,56,Female,109533,8,2.3,Yes,Bangalore
+1086,Shelley,HR,2018-05-29,26,Male,119777,7,3.1,No,Mumbai
+1522,Madeline,IT,2017-04-24,28,Female,51097,8,2.2,No,Hyderabad
+1467,Sarah,HR,2020-06-12,55,Female,106526,5,3.7,Yes,Mumbai
+2256,Shaun,HR ,2017-11-23,48,,68305,8,4.3,Yes,
+2784,Sarah,Sales,2024-12-07,36,Other,69449,1,2.1,Yes,Delhi
+1013,Anthony,Marketing,2023-01-22,24,Other,45375,2,2.0,Yes,
+2537,Elizabeth,HR ,2019-07-14,31,Other,53462,6,2.9,No,
+2760,Peter,Marketing,2019-02-26,43,Other,39650,6,3.0,No,
+2787,Connie,HR ,2022-05-22,47,Other,57467,3,4.9,Yes,Delhi
+1853,Jessica,Marketing,2022-09-07,44,Male,91651,3,5.0,No,
+1587,David,HR ,2018-06-02,25,Female,77268,7,4.1,Yes,Mumbai
+2953,Michael,HR ,2021-08-26,34,Other,66634,4,2.9,No,Delhi
+2050,Ashley,hr,2017-01-21,36,Female,41017,8,3.0,No,Hyderabad
+1095,Elizabeth,HR ,2016-04-08,58,Female,70366,9,4.1,No,
+2085,Brian,HR ,2025-09-25,44,Other,93125,0,2.9,No,Hyderabad
+2293,David,hr,2022-02-06,43,,33215,3,2.9,Yes,Delhi
+1624,Lori,Sales,2022-06-21,33,Male,78071,3,4.1,Yes,
+1816,Amanda,Sales,2021-10-09,48,Male,31759,4,4.4,No,Hyderabad
+2472,Kim,Finance,2025-05-14,54,Other,32985,0,,No,Bangalore
+1655,Leslie,HR,2024-08-06,47,Other,88473,1,3.5,Yes,
+2072,Nicholas,IT,2025-05-25,44,,80325,0,4.2,No,
+1003,John,Sales,2022-11-09,39,,60013,3,3.1,Yes,Bangalore
+1245,John,Finance,2017-07-10,30,Male,34753,8,2.3,Yes,Bangalore
+2363,Leslie,IT,2020-07-01,43,Male,48851,5,3.0,No,Bangalore
+2309,James,Sales,2020-08-11,44,Other,116491,5,,Yes,
+1002,Alexandra,Marketing,2021-06-12,37,Female,102159,4,4.0,Yes,Chennai
+2690,Nancy,hr,2018-03-22,26,Other,102618,7,4.9,Yes,Bangalore
+1479,Jacob,HR ,2025-01-26,35,,106934,0,3.0,No,Mumbai
+2919,Dawn,Sales,2018-10-30,30,Female,39866,7,2.9,Yes,Bangalore
+1295,Reginald,Marketing,2023-05-31,38,,119469,2,3.1,Yes,Mumbai
+1741,Kathy,Sales,2018-07-24,39,Male,90301,7,2.5,Yes,Chennai
+2346,Zachary,Marketing,2022-05-15,27,Other,104435,3,2.1,Yes,Chennai
+1404,Andrew,Sales,2023-11-23,54,,71530,2,4.1,Yes,Chennai
+2381,Christina,Sales,2027-06-01,49,Female,103537,0,3.2,Yes,Chennai
+2771,Debra,Marketing,2024-06-12,49,Female,49284,1,3.7,No,Bangalore
+1318,Larry,HR ,2018-03-12,34,Male,30447,7,3.3,Yes,Mumbai
+1998,Cynthia,Sales,2018-02-07,56,Other,109780,7,3.5,Yes,Delhi
+2696,Eric,Finance,2020-06-21,32,Male,71193,5,4.3,Yes,Bangalore
+1343,Amanda,Marketing,2016-03-02,34,Female,83365,9,3.5,Yes,Chennai
+2449,Natalie,Marketing,2015-11-02,38,Male,54436,10,3.7,No,Bangalore
+2851,Melinda,hr,2018-08-26,48,,38387,7,3.2,Yes,Hyderabad
+1594,Travis,HR,2016-06-12,50,Male,93839,9,3.0,Yes,Mumbai
+1600,Todd,HR ,2020-05-16,43,Female,73246,5,2.9,Yes,Hyderabad
+2620,Connie,Sales,2019-01-02,24,Male,49575,6,3.7,Yes,Chennai
+2406,John,HR ,2024-01-26,35,Female,65993,1,3.3,No,Delhi
+1110,Wayne,HR ,2023-06-02,51,Other,61940,2,2.6,No,Mumbai
+1365,Joshua,Sales,2022-11-21,59,Male,91664,3,3.2,Yes,Delhi
+2424,Kathleen,HR ,2018-11-17,46,Other,33352,7,3.2,No,Delhi
+1058,Amy,Marketing,2025-05-15,34,Other,57536,0,4.0,No,Bangalore
+1306,John,Sales,2018-05-09,54,Other,92268,7,4.8,No,Chennai
+1151,Stephanie,IT,2026-01-31,28,,500000,0,4.9,No,Chennai
+2199,Anna,Sales,2025-02-01,56,Male,42266,0,4.4,Yes,
+2777,Carl,IT,2019-04-29,28,,100935,6,3.0,No,Mumbai
+1535,Margaret,Sales,2024-11-10,39,Female,500000,1,2.1,Yes,Bangalore
+2483,Jonathan,IT,2016-09-25,52,Female,81493,9,3.8,Yes,Bangalore
+1948,Carlos,hr,2016-06-28,30,Male,32826,9,4.9,Yes,Hyderabad
+2338,Christopher,IT,2017-07-31,31,,114060,8,2.4,No,
+2983,Cindy,IT,2021-01-03,57,Other,95368,4,3.0,Yes,Chennai
+2659,Thomas,HR ,2018-07-25,40,,38771,7,2.4,Yes,Hyderabad
+2556,Jordan,hr,2020-02-29,56,Male,119435,5,4.8,Yes,Hyderabad
+1710,Erin,Marketing,2019-02-08,28,Other,108057,6,3.2,No,Chennai
+1314,Rebekah,Sales,2023-08-18,55,Female,56368,2,2.7,Yes,
+1922,Tiffany,Finance,2018-06-18,38,,57474,7,2.8,No,
+1806,Jennifer,HR,2019-08-05,28,,72549,6,3.9,No,Hyderabad
+2137,Kirsten,IT,2025-01-15,25,,94070,0,5.0,Yes,Delhi
+2108,Amy,HR ,2020-09-12,51,,38260,5,3.4,No,Hyderabad
+2608,Joshua,HR,2016-08-06,42,Male,77602,9,2.4,No,Hyderabad
+1504,Michelle,HR,2019-03-03,23,Female,84813,6,2.0,Yes,Delhi
+2603,Shannon,Marketing,2017-11-03,37,,96830,8,4.8,Yes,Hyderabad
+1957,Rachel,Finance,2017-11-16,41,Other,105501,8,4.1,No,Chennai
+2713,Jacob,HR,2016-12-18,36,Female,69073,9,4.2,Yes,Delhi
+2663,Kristen,HR,2021-10-29,27,,51846,4,4.2,No,Hyderabad
+2232,Philip,Marketing,2022-10-02,49,,101337,3,2.4,Yes,Hyderabad
+2155,Eric,hr,2019-09-18,52,,1000000,6,2.2,No,Delhi
+1534,Christina,IT,2025-04-01,37,,30921,0,4.4,No,Mumbai
+2092,Maria,HR,2018-10-14,44,Other,35211,7,3.6,Yes,Hyderabad
+1294,Matthew,hr,2019-10-15,50,Female,50387,6,2.7,No,Mumbai
+1083,Eric,Finance,2023-05-03,22,,31808,2,3.3,No,
+2207,Christine,Marketing,2023-12-01,35,Female,76174,2,3.8,Yes,
+1978,Dwayne,Marketing,2024-05-16,49,,500000,1,3.4,Yes,Hyderabad
+1793,Jasmine,IT,2018-04-27,31,Male,93021,7,2.7,No,Bangalore
+2781,Emma,hr,2015-10-05,35,Other,100950,10,2.7,Yes,Hyderabad
+2830,Joseph,Sales,2016-04-10,46,Female,31420,9,3.9,Yes,Chennai
+2382,Yvette,IT,2021-07-08,58,,66519,4,3.6,No,Bangalore
+1356,Justin,IT,2023-09-06,23,Other,57733,2,3.4,No,Chennai
+2950,Nathaniel,Sales,2022-06-01,40,Male,108812,3,3.5,Yes,
+1363,Samantha,hr,2024-06-19,30,,41456,1,4.8,No,Hyderabad
+2426,Katie,Marketing,2015-11-21,33,Female,95632,10,3.1,Yes,Bangalore
+1851,Nicholas,HR ,2024-12-30,24,Male,33521,1,2.1,No,Bangalore
+2331,Christine,hr,2022-03-06,26,,44087,3,3.7,Yes,Mumbai
+2182,Robert,Marketing,2025-05-09,53,Other,103043,0,3.7,Yes,Delhi
+2703,Melissa,IT,2021-08-29,35,Female,44069,4,2.2,Yes,
+2020,Cody,HR ,2020-06-17,22,Male,68829,5,3.8,Yes,Mumbai
+2233,Nancy,HR ,2017-12-02,58,,59642,8,5.0,Yes,
+1226,William,HR ,2025-06-16,25,Male,85071,0,4.3,Yes,Delhi
+1421,Kelsey,Finance,2026-02-03,44,Other,82988,0,2.8,Yes,
+2601,Ashley,HR ,2016-01-28,28,Other,86761,9,3.6,No,Bangalore
+1102,Steven,HR ,2017-08-26,49,Male,37627,8,2.5,Yes,Chennai
+2191,Keith,HR,2015-11-20,40,Other,50678,10,2.4,No,Bangalore
+2372,James,Sales,2018-03-05,34,Female,500000,7,3.5,Yes,Delhi
+1141,Michael,Marketing,2016-12-13,30,Other,108344,9,4.3,Yes,Mumbai
+2791,Ashley,hr,2016-05-17,45,Female,114172,9,3.2,No,Mumbai
+1342,James,Finance,2021-07-02,38,Female,83476,4,3.4,No,Chennai
+2159,Jonathan,HR,2020-11-24,51,Male,113448,5,3.6,No,Mumbai
+1525,Joseph,HR,2017-06-02,37,Male,60494,8,2.3,Yes,Chennai
+2382,Holly,IT,2016-08-08,33,Male,71831,9,3.5,Yes,
+2662,Robert,HR ,2017-04-08,35,Other,84011,8,5.0,No,Mumbai
+2697,Justin,Sales,2020-08-29,49,Other,114636,5,3.8,Yes,Delhi
+2179,Susan,Marketing,2018-05-11,43,Female,61693,7,3.1,No,Delhi
+2752,Tammy,HR ,2017-05-14,35,Male,73557,8,2.3,Yes,Mumbai
+2201,Bonnie,Finance,2020-07-03,22,Other,34049,5,4.5,Yes,Chennai
+1686,Tina,IT,2021-12-06,55,Female,86109,4,,Yes,Delhi
+1748,Cindy,IT,2015-11-27,37,Female,109484,10,2.3,Yes,Delhi
+1295,Emma,Finance,2018-09-15,27,Male,96986,7,2.5,No,Delhi
+1711,Alicia,Finance,2019-08-09,25,,82924,6,3.8,Yes,Hyderabad
+2234,James,IT,2023-05-05,41,,70534,2,3.2,Yes,Chennai
+1152,Jessica,HR,2020-06-19,25,Male,52158,5,2.2,Yes,
+1275,Garrett,Sales,2024-04-27,53,Male,76817,1,2.7,Yes,Chennai
+2925,Brian,HR,2017-03-22,48,Male,66563,8,3.7,Yes,Bangalore
+2777,Kenneth,HR ,2029-03-02,55,,87238,0,3.1,Yes,Bangalore
+2042,Kelly,HR ,2022-01-23,32,Male,113264,3,3.3,No,Delhi
+2547,Krista,Sales,2020-02-12,49,Female,63738,5,2.6,Yes,Delhi
+1271,Nicole,HR ,2023-05-12,24,,33073,2,4.6,Yes,Bangalore
+1941,Cheryl,Finance,2021-04-14,56,,80802,4,3.5,No,
+1379,Julie,HR,2017-06-27,49,Other,87987,8,2.1,No,Bangalore
+2004,Frank,Finance,2025-03-29,29,Other,106774,0,4.2,Yes,Chennai
+2879,Dawn,Sales,2019-09-17,54,Female,82913,6,4.6,Yes,Delhi
+2498,Kyle,HR ,2021-08-01,55,,102265,4,3.3,No,Hyderabad
+1691,Mary,Marketing,2017-01-17,48,Male,83103,8,2.5,Yes,Chennai
+2843,Sandra,Marketing,2016-07-14,37,Other,30528,9,4.7,No,Hyderabad
+1432,David,Sales,2023-07-06,23,Other,98500,2,,No,Bangalore
+2242,Jessica,IT,2024-11-17,22,Female,32569,1,4.8,Yes,Mumbai
+1361,Matthew,HR ,2025-09-17,28,,100155,0,3.7,Yes,Bangalore
+1560,Jessica,HR ,2025-05-21,58,Male,46869,0,2.4,No,Delhi
+2381,Jackie,Finance,2015-10-06,48,,52066,10,3.6,Yes,Hyderabad
+2189,Timothy,Marketing,2022-04-11,33,Female,75947,3,4.1,Yes,Mumbai
+1655,Marie,Sales,2019-11-07,38,Other,46006,6,4.8,No,Delhi
+1642,April,IT,2021-09-06,26,Male,99982,4,,No,Delhi
+1569,Christina,HR,2019-02-19,35,Other,74216,6,4.1,No,Mumbai
+2648,Adam,Finance,2023-01-29,42,Male,73499,2,4.6,Yes,Bangalore
+1949,Darrell,Finance,2030-08-24,43,Other,53043,0,4.6,Yes,Mumbai
+1037,Eric,Sales,2019-05-29,32,Male,75328,6,2.5,Yes,Mumbai
+1991,Amanda,Marketing,2017-03-24,33,Female,66172,8,3.9,Yes,Hyderabad
+2456,Kaitlin,Finance,2021-09-18,35,Female,76765,4,2.8,Yes,Delhi
+1361,Luke,Finance,2021-10-04,40,Female,49528,4,4.2,No,Chennai
+2033,Thomas,Marketing,2021-12-14,51,Male,53786,4,4.9,Yes,Chennai
+1971,Valerie,HR ,2025-02-09,46,Other,108313,0,3.8,Yes,Chennai
+1614,Michelle,Sales,2017-10-20,28,Male,93805,8,2.9,Yes,Bangalore
+1372,Joshua,Sales,2018-06-19,49,Other,90213,7,3.8,No,Chennai
+2822,Thomas,Finance,2024-04-16,55,,79338,1,4.4,No,Delhi
+1432,Scott,HR ,2023-03-27,59,Other,118071,2,2.2,Yes,Chennai
+2443,Jennifer,Sales,2017-08-08,35,,109739,8,2.3,Yes,Mumbai
+2972,Cynthia,Marketing,2019-03-29,58,Other,103424,6,5.0,No,Bangalore
+1776,William,hr,2016-05-16,54,,91355,9,4.9,Yes,Bangalore
+1150,Jessica,HR,2024-04-18,48,,117752,1,2.2,No,Hyderabad
+1502,Annette,Sales,2019-05-01,41,Other,119166,6,4.2,No,
+1683,Emily,Finance,2024-02-01,50,Female,51585,1,3.0,Yes,Delhi
+2341,Samuel,HR,2018-01-18,26,Male,68936,7,3.6,Yes,
+2619,Brian,IT,2019-04-20,46,,108870,6,4.6,Yes,Mumbai
+1730,Pamela,HR ,2015-10-26,24,,84805,10,3.4,No,Chennai
+2603,Shannon,Marketing,2017-11-03,37,,96830,8,4.8,Yes,Hyderabad
+1107,Jonathan,HR,2019-02-26,28,Other,54209,6,3.4,Yes,Bangalore
+2900,Nicole,hr,2018-07-19,26,Female,118778,7,,Yes,Mumbai
+1533,Rose,Sales,2022-03-02,22,,102780,3,4.7,Yes,
+1785,Martha,IT,2023-09-29,56,Other,36609,2,3.6,No,
+2113,Thomas,Sales,2016-09-14,38,Male,49499,9,2.4,No,Chennai
+2905,James,HR ,2022-06-25,58,Other,114996,3,3.2,Yes,Chennai
+1263,Michael,hr,2023-05-15,35,Other,48963,2,3.6,No,Hyderabad
+1145,Kimberly,hr,2016-04-13,38,,56746,9,3.8,No,Bangalore
+1552,Adam,hr,2016-05-31,31,Male,78263,9,3.2,Yes,Chennai
+1920,Elizabeth,Sales,2017-08-20,51,Female,112792,8,2.4,No,Bangalore
+2827,Christina,HR ,2021-07-23,28,Male,97393,4,4.3,No,Hyderabad
+1028,Christina,hr,2023-11-17,33,Female,64444,2,4.7,No,Bangalore
+1869,Angela,HR,2023-02-12,28,Male,93832,2,2.4,No,Hyderabad
+2453,Kelly,Sales,2024-01-09,43,Other,99509,1,2.6,No,Mumbai
+1994,Heather,hr,2020-06-29,29,Female,63605,5,4.3,No,
+2482,Kyle,HR,2022-11-11,28,Other,97686,3,2.8,No,
+2029,Amber,Finance,2022-01-24,46,Other,94588,3,3.0,Yes,Bangalore
+1904,Julian,HR ,2016-12-24,33,,60076,9,4.9,Yes,Chennai
+2512,Michael,HR,2022-04-28,33,,46809,3,2.3,No,Bangalore
+1620,Mark,hr,2022-11-08,30,Male,106828,3,3.8,Yes,Bangalore
+2179,Robert,hr,2023-06-07,56,,77652,2,4.2,Yes,Hyderabad
+2270,Julie,IT,2017-09-26,47,,94201,8,2.6,No,Chennai
+2278,Nicole,HR ,2025-08-17,100,,108469,0,2.3,No,Delhi
+2093,Donna,HR ,2019-06-14,23,Other,110152,6,,Yes,Chennai
+1727,Kevin,hr,2017-12-18,30,Male,37532,8,3.3,No,Mumbai
+1193,Sarah,Sales,2018-08-17,41,Female,47137,7,2.6,Yes,Delhi
+2274,Bruce,IT,2017-03-19,26,Female,45897,8,4.9,No,Hyderabad
+2898,Melissa,Sales,2021-10-13,43,Male,31376,4,3.6,Yes,Hyderabad
+2603,Michael,IT,2021-12-25,55,Male,110580,4,3.9,Yes,Delhi
+2337,John,Finance,2022-04-29,58,Male,109496,3,2.5,Yes,Bangalore
+1647,Janet,Marketing,2023-03-03,31,Male,62131,2,3.9,Yes,
+2949,Danielle,Finance,2022-04-12,44,Female,118807,3,3.6,Yes,Delhi
+2275,Scott,IT,2020-03-16,45,,116396,5,2.6,Yes,Mumbai
+1718,Hector,HR,2024-06-03,23,Male,45929,1,4.4,No,Delhi
+1691,Tina,hr,2024-11-07,26,,98828,1,4.8,No,Delhi
+1830,Joshua,Finance,2025-08-27,34,Other,88962,0,2.3,No,Bangalore
+1713,Manuel,IT,2021-07-22,51,Other,82099,4,4.0,No,Mumbai
+2839,Russell,HR,2018-11-01,57,Other,62838,7,4.6,Yes,Mumbai
+1936,Theresa,Marketing,2020-02-08,42,,58962,5,3.6,Yes,Hyderabad
+1709,Kimberly,hr,2018-01-23,47,Other,80110,7,4.7,Yes,Bangalore
+1811,Dennis,hr,2020-10-07,29,Male,90932,5,3.1,Yes,Bangalore
+1657,Terry,Sales,2024-06-28,46,Male,85889,1,3.8,No,Hyderabad
+2995,Mary,HR,2022-12-03,47,Female,34733,3,4.5,No,Delhi
+2170,Amy,Sales,2024-09-05,36,,36361,1,3.5,No,Chennai
+1279,Brent,Finance,2017-08-29,43,Other,31514,8,2.4,No,Delhi
+2600,Angela,HR,2024-06-14,39,Male,61363,1,,No,Bangalore
+2760,Michael,HR ,2016-05-19,39,,82136,9,4.6,No,
+1579,Barbara,HR,2016-06-27,36,Male,60390,9,2.8,No,Mumbai
+2431,Patricia,Sales,2020-02-29,30,Other,48764,5,4.7,No,Delhi
+2923,Julie,HR,2015-11-23,52,Male,42399,10,3.3,No,Delhi
+2859,Kelsey,HR ,2019-10-21,44,Male,44592,6,2.4,Yes,
+1497,Aaron,IT,2016-10-10,55,,51514,9,2.1,No,Bangalore
+1611,Philip,hr,2022-10-13,40,Male,39464,3,3.8,Yes,Chennai
+1817,Karen,HR,2020-12-31,46,Female,83699,5,3.3,Yes,Chennai
+2280,Susan,Sales,2015-12-03,32,Female,102137,10,2.7,No,Delhi
+2286,Keith,HR ,2019-09-14,26,Other,50268,6,3.0,No,Bangalore
+1377,Carolyn,Marketing,2024-09-13,48,Female,53720,1,2.3,No,Hyderabad
+1627,Scott,HR,2016-05-11,28,Male,45111,9,2.4,No,Chennai
+2564,Adam,Finance,2024-02-01,36,Male,54616,1,2.1,No,Hyderabad
+1255,Dale,HR,2021-12-18,59,,57718,4,2.1,No,Mumbai
+2830,David,IT,2016-12-20,45,Other,64586,9,,Yes,Hyderabad
+1235,Jared,IT,2022-07-25,59,Female,99351,3,2.6,No,Bangalore
+1211,Paul,Finance,2023-10-21,46,Female,36952,2,2.9,Yes,Hyderabad
+1728,Theodore,Sales,2018-07-21,33,Male,52857,7,2.2,Yes,Delhi
+1508,Christopher,Marketing,2025-07-06,45,Female,114568,0,3.2,No,
+2992,Cathy,Marketing,2016-02-10,44,,111957,9,2.6,No,Bangalore
+2911,James,IT,2025-03-11,37,Female,40592,0,2.9,No,Mumbai
+1364,Keith,IT,2016-02-06,27,Male,37487,9,4.5,Yes,Mumbai
+2538,Monica,HR,2019-02-11,45,,1000000,6,2.7,No,
+2471,Jennifer,IT,2018-08-09,40,Female,82996,7,4.9,Yes,Mumbai
+2062,Rebecca,Finance,2023-01-25,36,,67791,2,3.0,Yes,Hyderabad
+1053,Caitlin,Marketing,2016-03-03,45,Other,68228,9,2.9,Yes,Delhi
+2715,Craig,Finance,2023-03-13,25,,73307,2,5.0,Yes,Hyderabad
+2210,Meagan,HR ,2024-04-23,25,Male,106732,1,4.0,Yes,
+1029,Brandon,Marketing,2019-03-29,36,Other,101860,6,3.1,No,Chennai
+1994,Gregory,Finance,2017-08-17,35,Other,89070,8,3.5,No,
+2593,Briana,hr,2019-10-28,59,Male,100383,6,4.6,Yes,Chennai
+2845,Patricia,Finance,2022-01-20,47,,36731,3,2.5,Yes,Bangalore
+2689,Amy,hr,2024-07-25,50,Female,75920,1,4.2,Yes,
+2840,Jamie,Sales,2019-08-26,57,Other,62633,6,2.4,Yes,Mumbai
+1956,Nicholas,Marketing,2015-10-03,23,Other,77690,10,4.4,No,Delhi
+1051,Elizabeth,IT,2023-12-22,40,Female,80277,2,3.4,Yes,
+2910,Shannon,Sales,2017-09-18,58,,36232,8,4.2,Yes,Delhi
+1858,Robert,IT,2017-09-05,22,Female,82154,8,3.0,No,Chennai
+1728,Debra,hr,2016-04-28,31,,69210,9,4.2,No,Hyderabad
+2519,Carlos,Marketing,2016-01-17,51,Female,35364,9,2.4,Yes,Mumbai
+2022,David,IT,2026-01-01,51,,107154,0,2.0,No,Delhi
+2255,Rachel,Sales,2019-07-01,46,Female,62985,6,3.9,No,Hyderabad
+1494,Lee,Sales,2024-08-14,52,Male,68323,1,4.7,Yes,Hyderabad
+1170,Thomas,Marketing,2016-05-17,47,,78522,9,2.3,Yes,Delhi
+1408,Carlos,Finance,2024-04-21,57,Female,70247,1,2.2,No,Mumbai
+1008,Amanda,Finance,2021-01-12,24,,30372,4,2.5,No,Chennai
+2424,Tyler,Finance,2019-03-07,52,,66080,6,2.6,Yes,Hyderabad
+2350,Diana,hr,2019-09-18,53,Male,64917,6,2.3,Yes,Delhi
+2063,Regina,Sales,2020-01-24,45,Other,112219,5,4.2,Yes,Mumbai
+1804,Danielle,IT,2017-02-08,26,Female,70426,8,2.1,No,Chennai
+2877,Joseph,HR ,2025-03-28,44,,91548,0,4.8,Yes,Chennai
+1136,Ellen,Finance,2020-12-19,37,Other,94678,5,3.5,No,
+1511,Bradley,IT,2016-02-06,39,Female,96154,9,3.7,Yes,Bangalore
+2650,Caleb,Sales,2021-12-15,24,Other,53341,4,3.4,Yes,Chennai
+1785,Rachel,HR ,2020-05-09,43,Female,93356,5,,No,Chennai
+2789,Kathleen,HR,2020-08-05,44,Other,81870,5,4.9,Yes,Hyderabad
+2723,Michaela,HR,2024-02-14,51,,32020,1,3.5,No,Mumbai
+2287,Stephanie,HR ,2024-11-24,43,Male,30032,1,4.4,Yes,Bangalore
+1231,Alexander,hr,2024-04-26,23,Male,83173,1,2.8,No,
+2968,Rachel,Sales,2017-05-15,35,Male,79763,8,2.3,Yes,Mumbai
+2906,Matthew,hr,2022-04-30,56,,78570,3,4.9,No,
+2998,Amanda,HR ,2024-06-19,41,Female,63194,1,2.2,Yes,Hyderabad
+1157,Laura,HR ,2016-12-07,59,Female,31517,9,2.3,No,Mumbai
+1444,Kimberly,HR ,2017-06-13,22,,102102,8,3.9,Yes,Bangalore
+2680,Kevin,HR,2019-10-30,49,Male,80100,6,2.9,No,Hyderabad
+1096,Teresa,Marketing,2023-10-25,59,,80432,2,3.0,No,Bangalore
+1236,Brandon,Marketing,2024-09-11,48,Female,48654,1,2.5,No,
+1619,Angel,IT,2021-10-25,54,Male,40826,4,4.3,Yes,
+2027,Cynthia,HR,2022-03-04,47,,115980,3,2.8,Yes,Bangalore
+2755,John,Marketing,2023-01-11,46,Female,41305,2,3.2,Yes,Delhi
+2802,Jennifer,Finance,2020-09-23,48,Female,99943,5,4.0,No,Delhi
+1692,Christopher,HR ,2017-06-23,52,Female,77822,8,4.6,No,Hyderabad
+1086,Katherine,Marketing,2020-01-21,37,Female,95604,5,5.0,No,
+2435,John,HR ,2020-01-24,50,Other,60641,5,2.8,Yes,Bangalore
+1268,Jordan,Marketing,2018-07-05,51,Other,112013,7,4.2,Yes,Mumbai
+2624,Linda,Sales,2022-07-25,29,,111525,3,2.9,No,Mumbai
+2252,Paula,IT,2020-02-24,50,Male,108252,5,4.4,No,
+2663,Bruce,HR,2025-05-29,56,,57086,0,2.6,Yes,Delhi
+1858,Timothy,hr,2018-01-22,27,Female,106910,7,3.5,Yes,Delhi
+1581,Kristina,HR,2022-08-27,33,Male,53362,3,3.4,Yes,Mumbai
+2909,Linda,Sales,2018-06-19,28,Male,61954,7,2.9,No,
+1260,Robin,IT,2021-12-11,51,Other,38797,4,2.8,Yes,Delhi
+2582,Sara,Finance,2022-07-09,38,Male,34798,3,2.8,Yes,Mumbai
+2218,Brenda,Sales,2025-08-30,56,Female,75175,0,3.5,No,Mumbai
+2374,Anthony,HR ,2025-07-17,25,Female,86167,0,2.2,Yes,Chennai
+1452,Norma,Sales,2024-11-17,38,Male,73006,1,4.7,Yes,Mumbai
+2474,Sean,Sales,2024-04-26,25,Other,32106,1,2.7,No,
+2955,Cody,Finance,2022-05-08,53,Female,38517,3,3.4,No,Delhi
+1294,Stacy,IT,2023-06-09,50,Other,60905,2,4.7,No,Chennai
+1684,Rebecca,IT,2016-04-20,24,Male,60393,9,4.8,Yes,Delhi
+1656,Emily,Finance,2023-07-28,53,,79348,2,2.5,Yes,Bangalore
+2384,Frederick,HR,2019-08-01,31,Other,49110,6,2.3,No,Chennai
+2276,Wendy,HR,2015-11-06,45,Other,61373,10,2.2,Yes,
+1304,Elizabeth,Marketing,2022-08-10,25,Other,45156,3,,Yes,Mumbai
+2467,James,Finance,2027-01-24,46,Female,42833,0,4.4,No,Hyderabad
+1837,Matthew,IT,2021-12-19,34,Other,101517,4,2.8,No,Delhi
+1832,William,Sales,2025-04-20,48,,61209,0,2.8,No,Bangalore
+2200,Jay,IT,2019-01-24,22,Other,55869,6,,Yes,Chennai
+1433,Regina,HR,2016-10-28,22,,55983,9,2.5,Yes,Mumbai
+2727,Cynthia,hr,2024-12-05,41,Female,103238,1,4.7,No,Delhi
+2595,Sylvia,hr,2016-10-05,32,Other,33954,9,3.5,Yes,Chennai
+1569,Alexis,hr,2024-01-17,53,Female,104747,1,2.6,Yes,Delhi
+2329,Steven,Finance,2016-04-09,34,Other,91586,9,4.1,Yes,Hyderabad
+1895,Kimberly,Marketing,2017-01-15,26,,43745,8,3.7,Yes,Mumbai
+1136,Laura,Marketing,2018-12-24,43,Other,58675,7,4.6,Yes,Hyderabad
+2845,Christina,HR,2017-12-17,15,Male,45534,8,3.1,Yes,
+1291,Ashlee,HR,2021-09-20,46,,89211,4,4.6,Yes,Chennai
+2600,Joanna,Finance,2020-12-12,23,Other,61558,5,2.1,No,Chennai
+1373,Zachary,Sales,2018-01-14,23,Male,82499,7,3.5,Yes,
+1705,Tiffany,Marketing,2020-02-20,36,Male,47385,5,4.2,Yes,Chennai
+1797,Nicole,IT,2024-09-20,42,Female,90990,1,2.6,No,Mumbai
+1671,Richard,HR ,2019-11-30,33,Female,111689,6,3.5,No,Bangalore
+1305,Jason,HR ,2025-09-26,31,Other,102242,0,4.8,No,Bangalore
+1539,Amy,Marketing,2022-08-02,57,Male,75130,3,3.6,Yes,
+2172,Jimmy,IT,2022-05-29,49,Female,68327,3,,Yes,Bangalore
+2991,Christopher,hr,2017-05-05,24,Male,47118,8,,No,Chennai
+2210,Daniel,HR ,2017-07-04,54,,86814,8,2.5,Yes,
+2622,Bethany,Marketing,2023-06-21,37,Female,49353,2,3.4,Yes,Mumbai
+1396,Jimmy,Finance,2019-07-10,46,Female,85987,6,3.2,Yes,Hyderabad
+2627,Jeff,Sales,2018-10-01,33,Male,113799,7,2.2,No,Hyderabad
+1148,Jared,IT,2025-03-09,38,,87723,0,4.2,No,Mumbai
+2204,Samuel,Finance,2024-07-06,49,,89415,1,3.1,No,Bangalore
+1331,Michael,Finance,2019-11-21,51,Other,34363,6,3.5,Yes,
+2422,Lindsay,IT,2018-03-26,54,,65391,7,2.3,No,Mumbai
+2509,Kristin,IT,2025-03-31,39,Other,52805,0,2.7,No,Bangalore
+1262,Richard,HR ,2021-03-14,51,Other,87229,4,4.8,Yes,Chennai
+1987,Angie,HR,2021-08-24,32,Female,76191,4,4.7,No,Mumbai
+1410,Dana,Marketing,2020-08-09,53,,99318,5,3.1,No,Bangalore
+1418,Arthur,IT,2022-09-17,25,Male,108036,3,4.4,Yes,
+2273,Mary,HR,2017-01-21,49,Male,39091,8,4.1,Yes,
+2040,Laura,Sales,2022-06-20,52,Female,52171,3,3.5,Yes,Bangalore
+1439,Brian,HR,2016-10-30,22,Other,35876,9,2.6,No,Delhi
+2795,Kelly,Marketing,2020-02-27,45,Other,110058,5,4.6,Yes,Chennai
+2664,Jennifer,IT,2024-05-03,27,Male,69072,1,3.3,Yes,Delhi
+1561,Karl,Marketing,2025-04-30,27,Male,36134,0,4.1,No,
+2436,Randall,IT,2025-09-15,28,Female,35380,0,3.5,No,Mumbai
+1485,Mark,Finance,2018-06-15,31,Female,37672,7,2.9,Yes,Hyderabad
+1212,Matthew,IT,2021-07-07,30,Male,103139,4,4.8,Yes,Hyderabad
+1161,Charles,HR ,2019-03-26,33,Male,85526,6,4.7,No,Mumbai
+2324,Marilyn,Finance,2020-03-27,39,Female,106945,5,3.7,Yes,Delhi
+2152,Brittany,Finance,2019-06-26,47,,107652,6,2.6,Yes,Mumbai
+2891,Antonio,hr,2023-02-17,15,Other,112017,2,4.1,No,Mumbai
+2296,James,Finance,2017-08-28,57,,40945,8,,Yes,Bangalore
+2369,Erik,Sales,2022-08-14,27,,116885,3,3.1,No,Hyderabad
+2458,Joseph,HR,2017-10-19,29,Other,43254,8,3.3,Yes,Chennai
+1382,Brittany,IT,2017-11-09,27,Male,110693,8,3.4,No,Hyderabad
+2678,Felicia,HR ,2020-05-21,31,Male,69917,5,2.4,Yes,Delhi
+2153,Kevin,IT,2018-01-26,35,Male,53710,7,4.2,No,Delhi
+1960,Emily,Finance,2015-12-18,30,Female,86055,10,4.2,Yes,
+1813,Danielle,Marketing,2021-11-25,37,,101008,4,4.6,Yes,Chennai
+1507,Michael,IT,2019-06-15,28,Male,69649,6,2.4,No,Bangalore
+2569,Timothy,Marketing,2020-10-20,28,,46620,5,3.4,Yes,Delhi
+1084,Dustin,HR ,2016-01-25,47,Other,111515,9,3.4,No,Hyderabad
+1969,Richard,HR,2022-02-18,59,Female,54781,3,3.1,Yes,Chennai
+2780,Denise,hr,2020-11-26,55,Other,109016,5,3.9,No,Bangalore
+1507,Alicia,HR ,2017-07-10,59,Male,111532,8,4.3,Yes,
+2666,Stacie,IT,2020-01-09,49,,54850,5,2.1,No,Chennai
+2495,Karen,HR ,2020-11-05,28,Other,42022,5,2.4,No,Mumbai
+1931,Kimberly,IT,2018-11-11,51,Other,44246,7,3.3,No,Mumbai
+2093,Gregory,Finance,2018-10-22,54,Male,100667,7,3.8,Yes,
+2192,Rebekah,IT,2016-11-12,51,,114737,9,2.6,Yes,Chennai
+2825,Kaitlyn,HR ,2023-10-21,28,Other,45233,2,3.9,No,Bangalore
+1323,Ashley,HR,2023-11-11,33,Female,47265,2,4.4,Yes,Delhi
+1268,Morgan,HR,2019-04-16,44,Male,64405,6,2.3,No,Hyderabad
+1643,Rachel,HR,2017-04-24,15,Male,33681,8,2.5,No,
+1638,Christopher,hr,2024-06-13,59,Female,58222,1,4.2,Yes,
+1478,Jason,HR ,2021-03-30,58,Female,92022,4,3.2,Yes,
+2968,Cynthia,HR ,2017-02-02,22,Female,47986,8,4.5,Yes,Hyderabad
+1313,Pamela,Marketing,2022-05-01,45,Male,73824,3,4.5,No,Hyderabad
+1812,Stacey,Finance,2022-03-17,39,,108319,3,4.0,No,
+2786,Carol,HR ,2023-06-09,50,Female,116894,2,3.6,Yes,
+1887,Regina,Finance,2017-09-21,51,Male,500000,8,2.7,Yes,Delhi
+1017,Robert,HR ,2022-11-17,32,,114096,3,2.2,Yes,Chennai
+1868,Michelle,Marketing,2022-04-29,32,Female,62249,3,4.9,No,Mumbai
+1718,Erin,HR,2015-10-20,50,Female,67108,10,2.3,Yes,Bangalore
+2802,Laura,Sales,2018-03-11,53,,102217,7,2.8,No,Mumbai
+1778,John,HR,2016-10-10,41,,40451,9,2.2,No,
+1730,Christopher,HR,2022-09-30,32,Female,1000000,3,3.8,No,Mumbai
+1115,Michelle,hr,2022-07-01,27,Female,500000,3,4.5,No,Mumbai
+2505,Michael,hr,2016-08-14,56,Other,45610,9,4.6,Yes,Chennai
+1736,Karen,IT,2016-07-24,30,Other,42193,9,3.3,No,Mumbai
+1638,Joe,IT,2019-10-04,44,Male,55879,6,3.9,No,Mumbai
+1603,Joseph,Marketing,2018-08-14,52,Female,97875,7,4.4,Yes,Chennai
+1431,Brian,hr,2024-03-07,50,Female,49898,1,4.7,Yes,Delhi
+2726,Stephanie,HR,2018-08-29,49,Other,96184,7,2.3,Yes,Chennai
+2819,Michael,IT,2015-12-10,38,Male,79431,10,4.7,Yes,Mumbai
+2657,Michele,HR ,2022-11-22,46,Other,83213,3,4.2,Yes,Chennai
+1259,Stacy,Finance,2022-11-16,31,,32562,3,2.9,Yes,Chennai
+1447,Allison,Marketing,2025-02-14,24,,118342,0,4.9,No,Mumbai
+1979,Larry,Finance,2015-10-26,51,,107997,10,4.5,No,Delhi
+1139,Diane,Sales,2024-04-08,27,Female,37791,1,4.4,Yes,Bangalore
+1381,Margaret,HR,2025-06-02,34,Other,97980,0,3.1,Yes,Mumbai
+2655,Aaron,Sales,2016-02-16,40,Other,94529,9,2.9,No,Mumbai
+2805,Leslie,Marketing,2019-10-22,58,Male,107983,6,,No,Delhi
+1992,Jonathan,Finance,2024-12-29,26,,111878,1,,Yes,Bangalore
+1020,Michelle,Marketing,2022-03-12,49,,90007,3,4.5,No,Mumbai
+2295,Jerry,IT,2017-06-18,40,Male,109366,8,2.2,Yes,Bangalore
+2482,Jason,Sales,2024-03-15,46,Male,36537,1,4.8,No,Hyderabad
+1810,Penny,IT,2028-11-15,56,Other,105089,0,3.3,No,Bangalore
+1023,Michael,HR ,2018-02-25,59,,44398,7,2.7,Yes,
+1426,Melanie,HR ,2019-12-30,34,Other,86966,6,2.5,Yes,
+1239,Darlene,Sales,2021-04-02,41,Male,32851,4,4.2,No,Hyderabad
+1816,Amanda,Sales,2021-10-09,48,Male,31759,4,4.4,No,Hyderabad
+2062,Richard,hr,2023-08-17,51,,108338,2,2.0,No,Delhi
+2474,David,Marketing,2021-12-24,52,Male,42056,4,2.1,Yes,Bangalore
+1761,Holly,Sales,2025-08-25,28,Other,100029,0,3.9,No,Delhi
+2477,Wendy,IT,2023-05-25,52,Male,105717,2,4.1,Yes,Mumbai
+2107,Jason,Sales,2019-08-15,27,Male,66082,6,2.6,No,Hyderabad
+2031,Stephanie,HR,2021-08-17,51,,37223,4,4.3,Yes,Delhi
+2745,Stacey,IT,2022-07-26,58,Male,49548,3,2.5,No,Mumbai
+1592,Justin,Finance,2022-08-06,44,Male,90149,3,3.7,Yes,Chennai
+1138,Timothy,Sales,2019-01-19,50,,35338,6,3.2,No,Delhi
+1533,Adam,hr,2021-11-25,50,,113005,4,3.1,No,Mumbai
+2157,Janet,IT,2023-08-07,31,Male,37140,2,4.5,No,Delhi
+1856,Steven,hr,2022-08-03,40,Male,75914,3,3.7,No,Bangalore
+1419,Devin,HR,2022-05-22,33,,69724,3,4.3,Yes,
+1558,Sarah,HR ,2022-07-20,59,,106064,3,4.8,No,Chennai
+1952,Ellen,Sales,2019-12-29,57,Male,95317,6,2.5,Yes,Chennai
+1658,Diana,Finance,2023-05-23,42,Male,67888,2,4.2,No,Mumbai
+1730,Shannon,IT,2017-10-15,59,,111831,8,4.2,Yes,Hyderabad
+2908,Martha,IT,2022-04-01,52,Female,119903,3,4.1,No,Hyderabad
+1387,Nicholas,HR ,2025-05-07,37,Female,46947,0,4.2,Yes,Chennai
+1658,Julie,Finance,2016-07-07,15,,112780,9,4.7,No,Chennai
+1157,Kristen,Marketing,2024-05-27,44,Male,102988,1,4.6,Yes,Chennai
+1656,Jacob,HR,2026-10-17,36,Male,52865,0,3.0,Yes,Chennai
+1044,Christina,IT,2024-03-12,42,Female,68008,1,3.1,Yes,Hyderabad
+1839,Rebecca,HR ,2018-07-18,25,Female,83991,7,4.4,Yes,Chennai
+1775,Carla,HR,2024-11-19,45,,52197,1,3.7,Yes,Bangalore
+1059,Robert,hr,2022-08-08,46,Other,47347,3,3.5,No,Delhi
+1965,Andrew,IT,2018-03-17,30,Male,52784,7,4.1,No,Hyderabad
+1683,Isaiah,Sales,2018-12-03,53,Male,500000,7,3.4,No,
+2691,Tony,HR,2024-12-11,51,Female,76747,1,4.8,No,Mumbai
+2490,Joseph,IT,2018-04-09,31,Male,48447,7,3.3,No,
+1263,Caroline,IT,2017-11-24,41,Other,104206,8,,No,Mumbai
+2947,Heather,hr,2015-10-26,43,,87450,10,3.4,No,Bangalore
+2998,Gwendolyn,Marketing,2016-11-20,26,Other,56852,9,3.3,Yes,Hyderabad
+1483,Taylor,IT,2018-11-28,47,Other,69505,7,3.4,No,
+2567,Sylvia,Marketing,2018-10-19,31,,30076,7,3.9,No,Chennai
+2401,Heather,IT,2025-08-23,31,Female,44966,0,2.8,Yes,
+1420,Jessica,IT,2023-02-18,48,,109753,2,2.8,No,Chennai
+1001,Thomas,Sales,2023-04-14,25,Other,103191,2,,No,Chennai
+1692,Matthew,Sales,2018-04-25,24,,33360,7,4.5,No,Mumbai
+1353,Timothy,IT,2023-04-23,100,Male,1000000,2,3.0,No,Bangalore
+2794,Terri,HR ,2025-06-04,32,Female,68717,0,2.1,No,Hyderabad
+1870,Mia,hr,2022-12-22,23,Female,54466,3,2.9,No,Chennai
+1065,Vickie,IT,2020-11-03,100,Female,104205,5,2.0,No,Hyderabad
+2219,Victoria,hr,2023-01-09,55,Female,102003,2,4.2,Yes,Delhi
+1920,Charles,Finance,2025-01-28,39,,101859,0,2.1,No,Bangalore
+2675,Audrey,Sales,2016-10-22,37,Other,85664,9,2.5,Yes,Bangalore
+1261,Heather,hr,2023-10-27,36,Male,104612,2,4.4,Yes,Mumbai
+2278,Jason,Finance,2022-08-16,41,Male,101664,3,3.2,Yes,Mumbai
+2501,Timothy,Sales,2016-11-16,54,Other,73758,9,3.5,No,Mumbai
+1062,Howard,Marketing,2016-08-17,30,Female,31499,9,5.0,Yes,Chennai
+1700,Jeffrey,HR ,2025-06-05,30,Female,85107,0,4.5,Yes,Delhi
+2752,Kathleen,HR,2016-05-17,58,Male,112764,9,2.6,Yes,Delhi
+1812,Brandon,Sales,2024-06-26,25,,60108,1,2.8,Yes,
+2429,Alyssa,hr,2016-09-11,37,,102447,9,3.3,No,Mumbai
+2690,Matthew,Finance,2020-04-25,50,Female,49666,5,4.5,No,Chennai
+2972,Michael,Finance,2016-06-16,22,Other,104092,9,2.8,Yes,Delhi
+2417,Brandon,Sales,2019-10-02,47,Other,49529,6,3.2,No,Hyderabad
+1854,Jeremy,Marketing,2025-08-10,50,,48988,0,3.3,No,Delhi
+1975,Tyler,IT,2021-08-07,30,Male,33801,4,4.7,Yes,Chennai
+2426,Arthur,HR ,2020-03-05,28,,500000,5,4.9,Yes,Hyderabad
+1563,Ryan,Marketing,2020-07-05,47,Male,106642,5,4.1,Yes,Chennai
+1145,Chad,IT,2017-04-10,42,Other,91265,8,4.1,Yes,Hyderabad
+1957,Tammy,HR,2024-08-27,43,Female,82787,1,3.3,No,Mumbai
+1320,Leslie,Sales,2018-05-28,34,Male,35398,7,2.7,No,Bangalore
+2844,Alexander,IT,2016-03-18,52,Female,94210,9,4.1,Yes,Bangalore
+2511,Seth,Sales,2025-08-30,43,,111158,0,3.7,No,Chennai
+2599,Heather,Finance,2021-07-08,26,,97919,4,2.4,No,Delhi
+2298,Jeffrey,HR ,2016-07-17,47,,70435,9,3.9,No,Chennai
+2915,Julia,HR ,2023-01-05,26,Other,115663,2,2.2,Yes,
+1662,Joel,IT,2025-08-26,43,,31298,0,,Yes,Mumbai
+1995,Sara,HR ,2016-07-20,30,Other,60691,9,2.7,No,Bangalore
+2851,Melinda,hr,2018-08-26,48,,38387,7,3.2,Yes,Hyderabad
+1948,James,IT,2021-12-10,37,,68439,4,2.3,No,
+1875,Robert,hr,2025-03-27,29,Female,57952,0,2.3,No,Chennai
+2692,Kathy,HR,2021-03-06,31,Female,41435,4,4.4,No,
+1818,Luis,hr,2016-08-02,33,Other,40673,9,3.7,No,
+1877,John,IT,2024-06-15,33,Male,118829,1,4.5,No,Mumbai
+2363,Leslie,IT,2020-07-01,43,Male,48851,5,3.0,No,Bangalore
+2884,Robert,HR,2018-10-07,49,Female,79349,7,2.8,Yes,Delhi
+1889,Benjamin,hr,2020-11-12,55,Male,51405,5,4.5,Yes,
+2771,Marissa,hr,2016-04-08,51,Other,91013,9,2.9,Yes,Bangalore
+2779,Mark,Marketing,2025-09-24,25,,116367,0,2.4,No,Hyderabad
+2025,Lisa,IT,2025-03-27,25,Female,99636,0,4.3,No,Bangalore
+2878,Madeline,IT,2022-05-15,30,Other,48593,3,4.0,No,Mumbai
+2774,Adam,Marketing,2017-09-05,45,Male,41693,8,4.8,Yes,Bangalore
+2807,Carla,Finance,2022-05-14,34,Male,64857,3,4.9,No,Mumbai
+2150,Jacob,Sales,2022-04-29,49,Male,36951,3,4.6,No,Hyderabad
+2388,Sara,IT,2022-11-18,54,Female,48178,3,4.0,Yes,Hyderabad
+1428,Bradley,hr,2020-11-22,48,,49175,5,4.8,Yes,Chennai
+1757,Douglas,Finance,2022-08-06,36,Other,98077,3,3.8,Yes,Bangalore
+2309,Robin,HR ,2022-11-22,55,Male,91013,3,4.3,Yes,Delhi
+2464,Nicole,hr,2019-07-22,15,Female,58682,6,4.6,Yes,Chennai
+2641,Todd,hr,2023-10-09,24,,78616,2,3.7,Yes,Delhi
+2988,Stephanie,Finance,2020-01-29,51,Other,42438,5,2.2,No,Mumbai
+1451,Michelle,Finance,2017-08-19,57,Other,48201,8,2.7,No,Hyderabad
+1479,Brianna,HR ,2024-09-06,32,Other,36271,1,4.9,Yes,Bangalore
+2147,Matthew,Finance,2017-03-09,30,Male,33081,8,3.5,Yes,Hyderabad
+1132,Marcus,hr,2025-03-16,26,Female,86532,0,3.5,Yes,Delhi
+2755,Shawn,HR ,2016-12-08,45,,84872,9,4.8,Yes,Chennai
+1805,David,HR,2024-08-26,35,,86756,1,2.3,Yes,Hyderabad
+1494,Johnathan,IT,2016-02-23,29,,101984,9,2.2,No,Bangalore
+2975,Brett,Marketing,2020-10-11,35,Male,83278,5,2.9,Yes,
+1170,Rebecca,Marketing,2019-07-17,22,Male,40929,6,2.1,Yes,Mumbai
+1108,Daniel,IT,2025-02-25,59,Other,59890,0,2.5,No,
+2090,Katherine,HR ,2019-10-22,31,,53007,6,2.8,Yes,Hyderabad
+2995,Bonnie,IT,2025-02-10,40,Female,40822,0,,No,Hyderabad
+1487,Amy,HR ,2016-10-05,37,Male,71892,9,3.4,No,Delhi
+1381,Stacey,Finance,2025-07-28,44,Male,94481,0,,No,Chennai
+2997,Rodney,Finance,2015-12-28,58,Female,35758,10,2.3,No,Delhi
+2563,Tyler,Marketing,2019-04-08,49,Male,42850,6,3.2,No,Mumbai
+1451,Brian,Finance,2024-09-05,26,Male,100577,1,3.3,No,
+2347,Cassandra,hr,2016-06-26,26,Other,47878,9,2.3,Yes,Hyderabad
+1314,James,Finance,2020-12-31,41,Female,82449,5,2.7,No,Hyderabad
+2650,Sarah,HR,2020-01-27,32,Other,118514,5,4.0,No,Bangalore
+2111,Anthony,hr,2019-01-04,53,Other,115402,6,3.6,No,Delhi
+2683,Christopher,HR,2027-04-13,25,,37979,0,4.1,Yes,Delhi
+2967,Alexandria,Marketing,2015-12-08,39,Male,101681,10,2.2,Yes,Bangalore
+2000,Stephen,Marketing,2019-10-31,23,Other,95572,6,3.7,Yes,Mumbai
+2608,Timothy,HR ,2021-07-25,27,Male,60671,4,4.8,No,
+1605,Richard,Sales,2021-09-15,47,Other,108891,4,3.4,No,Mumbai
+2521,Jose,HR,2020-05-17,30,,50074,5,4.0,No,Bangalore
+1190,John,HR ,2019-12-01,29,Male,72228,6,3.1,Yes,Mumbai
+1755,Darrell,HR ,2019-11-07,46,Female,58086,6,4.2,No,Chennai
+1712,Timothy,HR,2019-11-09,32,,57061,6,4.7,No,Delhi
+1025,Daniel,Finance,2022-06-03,31,,101845,3,2.9,No,Delhi
+1977,Franklin,Marketing,2016-01-12,34,Male,90128,9,4.2,Yes,Delhi
+1422,David,hr,2025-01-06,49,,82174,0,2.5,Yes,Hyderabad
+1350,Deanna,hr,2019-12-14,26,Male,39696,6,4.9,Yes,Mumbai
+2947,Jason,Finance,2024-04-29,28,Other,112409,1,2.4,Yes,Bangalore
+1627,Diana,hr,2017-12-07,57,,64090,8,4.4,Yes,Chennai
+1583,Ronald,HR,2019-10-24,26,,34027,6,4.2,No,Delhi
+2631,Travis,IT,2024-03-03,38,Female,105159,1,4.2,No,Delhi
+1965,Monica,IT,2017-10-28,46,Other,99971,8,2.7,No,
+1492,Sue,IT,2020-06-30,53,,66187,5,3.5,No,
+2262,Amanda,Finance,2017-06-02,25,Other,85222,8,4.6,Yes,Mumbai
+2619,Cody,HR ,2018-04-30,49,Female,31531,7,3.8,Yes,Mumbai
+1571,Suzanne,Marketing,2023-02-02,48,,46925,2,2.9,No,Chennai
+2483,Ruth,HR ,2016-02-08,53,Male,39144,9,2.3,Yes,Hyderabad
+2557,Samantha,HR,2019-12-26,49,Other,97337,6,5.0,No,Delhi
+1834,Brian,HR ,2023-11-15,57,,69959,2,3.6,Yes,Hyderabad
+1113,Mikayla,hr,2024-04-01,30,,66036,1,3.2,Yes,
+2039,Derrick,Sales,2019-08-28,55,Male,40345,6,4.4,Yes,Hyderabad
+2775,Kim,HR ,2022-05-13,50,Female,93211,3,4.7,No,
+1822,Jennifer,Finance,2023-02-01,22,,32317,2,4.7,No,Hyderabad
+2807,John,hr,2023-10-03,47,Female,43861,2,,Yes,Chennai
+1323,Jennifer,HR,2019-01-17,27,,34373,6,4.4,Yes,Delhi
+2175,Noah,HR ,2021-05-10,58,Other,80759,4,4.5,No,Chennai
+2996,Jasmine,HR ,2015-10-20,55,Other,89731,10,2.7,No,Mumbai
+2205,Tonya,Marketing,2021-03-10,35,Male,117966,4,,No,Delhi
+2497,Miranda,Finance,2024-01-16,41,Other,94697,1,4.8,No,Chennai
+1085,Patricia,HR,2024-04-03,56,,114973,1,5.0,Yes,Bangalore
+1975,Dustin,Finance,2016-04-24,40,Other,117705,9,3.1,No,
+1244,Monica,HR,2024-05-23,38,,46451,1,4.9,Yes,Delhi
+1212,Todd,Sales,2016-08-11,100,,87069,9,3.0,No,Mumbai
+2004,Catherine,HR,2022-01-04,32,Other,90561,3,,No,Hyderabad
+1880,Alexandra,hr,2018-08-01,41,Female,41758,7,5.0,Yes,
+1830,Kelli,HR,2016-06-17,29,Male,30031,9,2.6,No,Chennai
+2388,Angela,hr,2023-08-31,39,Male,92636,2,2.7,Yes,Chennai
+1990,Tina,Finance,2021-01-08,22,Female,75412,4,2.5,No,Hyderabad
+1901,Virginia,Marketing,2018-02-18,39,Female,31760,7,4.7,Yes,Bangalore
+1148,Kristy,hr,2016-08-25,42,Female,107863,9,4.8,Yes,Chennai
+1700,Kenneth,HR ,2022-04-16,37,Female,58371,3,4.6,Yes,
+1835,Bonnie,Finance,2017-02-12,49,,56254,8,2.2,No,Bangalore
+2458,Barbara,Sales,2023-01-09,27,Male,59160,2,4.2,No,Hyderabad
+2010,Dennis,HR,2024-09-06,55,Other,85102,1,2.1,No,
+2248,Jennifer,HR ,2021-01-11,45,Male,111716,4,4.1,No,Delhi
+1810,Brandon,Finance,2021-04-05,49,Female,49699,4,,Yes,
+1506,James,HR,2021-08-28,34,Male,77466,4,3.0,Yes,Hyderabad
+2367,Lisa,Marketing,2019-12-19,33,Other,66403,6,3.1,No,Mumbai
+2233,Lisa,Finance,2024-06-28,43,Male,76843,1,4.6,Yes,Bangalore
+2287,Patricia,HR,2022-01-21,25,Male,71164,3,4.4,Yes,Bangalore
+2516,Robert,IT,2023-03-13,31,,500000,2,4.3,No,Bangalore
+1554,Thomas,Sales,2016-08-01,28,Female,111610,9,2.3,Yes,Delhi
+2095,Heidi,HR,2020-08-30,47,Male,116658,5,2.6,No,Mumbai
+1923,Audrey,Sales,2017-11-27,58,Female,85761,8,4.6,Yes,
+2520,Jose,hr,2019-06-27,59,,71835,6,3.5,Yes,Chennai
+1303,David,Finance,2025-03-25,36,Other,45654,0,4.4,Yes,Chennai
+1421,Jessica,Finance,2017-07-06,56,Male,107381,8,4.8,Yes,Mumbai
+1624,Richard,Sales,2025-06-06,39,Other,113437,0,4.6,Yes,Delhi
+2368,Melissa,Finance,2019-04-23,32,Female,58654,6,3.3,Yes,Delhi
+1237,Douglas,Sales,2022-04-04,42,Male,70074,3,2.3,Yes,Delhi
+1820,Ryan,IT,2021-09-28,27,Male,43560,4,2.7,Yes,Hyderabad
+1986,Jake,HR,2015-11-01,58,Male,65223,10,2.4,Yes,
+2098,Margaret,HR,2024-08-13,37,,48704,1,3.4,No,
+2480,Jennifer,Marketing,2024-06-08,34,,58193,1,3.4,No,Hyderabad
+1006,Yesenia,IT,2023-01-05,45,Male,56697,2,4.8,No,Delhi
+2586,Cynthia,hr,2017-12-17,50,,61663,8,2.8,Yes,
+2778,Gerald,Finance,2022-11-29,42,Male,49560,3,4.7,Yes,
+1421,Justin,HR,2021-01-27,51,Other,106029,4,3.8,No,
+1993,Brian,Finance,2023-08-06,29,,62374,2,3.8,No,Hyderabad
+2051,Shannon,Sales,2023-10-12,51,Male,56428,2,4.9,Yes,Bangalore
+1941,James,IT,2016-12-22,53,,85072,9,,Yes,Bangalore
+2972,Brian,IT,2017-09-27,26,Other,93530,8,4.0,No,Bangalore
+1625,Elizabeth,Finance,2018-07-16,22,Male,97333,7,3.9,Yes,Bangalore
+1099,Caitlyn,HR ,2023-02-09,39,,76111,2,4.9,Yes,Bangalore
+1164,Carrie,Marketing,2027-10-05,46,Other,103668,0,3.6,Yes,Hyderabad
+1136,Robin,Finance,2023-07-17,51,Male,74349,2,2.6,No,Bangalore
+2097,Kristin,Sales,2025-05-05,50,,90183,0,4.8,No,Hyderabad
+2634,William,IT,2025-01-30,38,Other,99303,0,4.3,Yes,
+1706,Jay,hr,2023-11-08,59,Male,113628,2,2.9,No,Delhi
+1076,Christopher,Sales,2020-12-25,39,Female,55114,5,4.8,Yes,Hyderabad
+1755,Travis,HR,2019-09-29,32,,87634,6,2.4,Yes,Mumbai
+2214,Kristina,hr,2017-05-01,29,Female,52586,8,3.5,Yes,Delhi
+1840,Jessica,IT,2017-06-28,34,Other,113836,8,,Yes,Mumbai
+1729,Cindy,IT,2018-03-27,57,Female,53373,7,3.6,Yes,Chennai
+1149,Alexandra,Marketing,2016-11-04,23,,115439,9,4.7,No,Hyderabad
+2036,Lisa,HR ,2020-01-05,32,Male,47167,5,4.1,No,Bangalore
+1179,Tonya,IT,2022-01-27,30,Female,45726,3,3.4,No,Mumbai
+2865,Kayla,HR ,2020-09-05,58,Other,50061,5,4.4,Yes,Delhi
+1074,Barbara,hr,2017-02-05,28,Male,74997,8,3.4,Yes,Hyderabad
+2493,Christine,HR,2019-01-09,36,Female,104259,6,3.5,No,Mumbai
+1390,Catherine,Sales,2022-07-29,57,Other,78362,3,2.0,No,Delhi
+2374,Tracy,HR ,2029-02-19,37,Female,93463,0,5.0,Yes,Delhi
+2794,Derek,Finance,2015-10-27,35,Male,50567,10,2.5,Yes,Delhi
+2320,Brad,Sales,2020-03-15,46,Female,37881,5,3.8,No,Bangalore
+1913,Christopher,Finance,2025-01-05,26,Other,30726,0,3.7,No,Delhi
+2564,Larry,Marketing,2017-12-26,26,Male,48614,8,3.2,No,Mumbai
+2631,Tina,HR,2022-12-17,32,Male,97232,3,2.8,Yes,Hyderabad
+1555,Mark,IT,2024-06-12,26,Other,64671,1,2.4,No,
+2585,John,HR,2025-07-11,52,Other,77077,0,3.0,Yes,Chennai
+1947,Kelsey,HR ,2021-04-24,49,Female,45381,4,3.7,Yes,
+1561,Scott,Sales,2020-06-12,43,Female,54333,5,2.4,No,Hyderabad
+2202,Stephen,IT,2020-05-20,36,Other,73166,5,2.5,Yes,
+2867,Steven,hr,2022-03-11,58,Female,101446,3,2.7,No,
+2880,Tara,HR ,2017-03-01,33,Other,113949,8,3.8,Yes,Bangalore
+2970,Calvin,Sales,2018-10-21,50,Other,42574,7,3.4,Yes,Chennai
+1202,Randy,Sales,2023-04-22,43,Female,54675,2,4.3,Yes,Hyderabad
+2701,Russell,hr,2022-08-22,46,Other,91096,3,2.6,No,Hyderabad
+1875,Robert,hr,2025-03-27,29,Female,57952,0,2.3,No,Chennai
+1454,Robin,IT,2022-11-26,42,Other,98252,3,4.2,Yes,Hyderabad
+1142,Shirley,Sales,2020-06-22,25,Male,91551,5,2.4,No,Delhi
+1480,Nicholas,Sales,2018-08-01,27,Other,92196,7,2.9,Yes,Chennai
+1171,Matthew,IT,2020-09-20,30,Other,54478,5,2.5,No,
+2387,Diana,hr,2030-07-14,46,Other,40193,0,4.8,No,Bangalore
+1889,Bryan,HR,2017-01-02,36,Female,90134,8,3.4,Yes,Bangalore
+2332,Paula,HR ,2016-11-12,43,Female,99214,9,4.0,No,Bangalore
+2415,Heather,hr,2017-10-30,55,Female,108210,8,2.4,Yes,Delhi
+1687,Gregory,HR ,2017-08-31,56,,48088,8,3.7,Yes,Mumbai
+2109,Evan,hr,2018-02-25,34,Other,49369,7,4.2,Yes,Delhi
+2016,Sarah,Marketing,2021-01-23,45,Other,36902,4,2.3,No,Hyderabad
+1793,Meghan,Sales,2017-08-12,51,Female,500000,8,,Yes,Mumbai
+1647,Joann,HR,2023-03-06,39,Female,115725,2,2.1,Yes,Mumbai
+2084,James,hr,2017-04-17,29,Male,103406,8,2.9,No,Chennai
+1827,Lisa,Sales,2025-07-04,57,Female,58604,0,4.8,Yes,
+2068,Scott,hr,2021-12-16,42,Male,87734,4,5.0,No,Chennai
+1857,Sean,Sales,2018-01-24,51,Other,110817,7,4.8,No,Mumbai
+2630,Michelle,Marketing,2018-12-01,48,,80840,7,3.5,No,Mumbai
+1173,Dennis,Finance,2022-05-10,44,Other,101961,3,3.8,No,Mumbai
+1909,Linda,HR ,2016-09-25,40,Male,80517,9,5.0,Yes,Hyderabad
+2055,Jonathan,Sales,2022-06-07,49,Male,119999,3,3.2,No,
+1831,Dylan,HR ,2018-07-12,32,Female,61189,7,5.0,Yes,Chennai
+2159,Melanie,Sales,2024-10-16,30,,105048,1,3.2,No,Bangalore
+2300,Melissa,IT,2024-04-18,24,Male,95563,1,,Yes,Chennai
+1305,Deanna,HR ,2024-11-12,31,,108864,1,3.0,No,Mumbai
+2803,Melissa,Marketing,2018-03-18,58,,62785,7,3.1,No,Mumbai
+2896,Jeremy,HR,2025-07-29,33,Other,117143,0,2.8,No,Mumbai
+1277,Beth,Finance,2017-01-08,44,,49361,8,3.4,Yes,
